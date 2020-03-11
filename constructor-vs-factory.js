@@ -29,11 +29,3 @@ const anotherCircle = new Circle(1);
 // Factory Function vs Constructor Function
 // If you return an object in the function, we refer to it as a factory function
 // If we use the this keyword along with the new operator,  we refer to that function as a constructor function
-
-
-
-// Constructor property
-// Every object in JS has a property called constructor which referecnes the function that was used to create that object
-// 
-
-
