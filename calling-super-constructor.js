@@ -1,5 +1,5 @@
-function Shape() {
-
+function Shape(color) {
+    this.color = color;
 }
 
 Shape.prototype.duplicate = function () {
