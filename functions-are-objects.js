@@ -16,3 +16,5 @@ const otherCircle = new Function('radius', `
 
 const circle = new Circle(1);
 const otherCirc = new otherCircle(1);
+
+// done
